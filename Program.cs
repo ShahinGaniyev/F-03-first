@@ -351,27 +351,35 @@
             //    Console.WriteLine(a);
             //}
 
-            Console.WriteLine("Adinizi daxil edin");
-            string daxilad = Console.ReadLine();
+            //Console.WriteLine("Adinizi daxil edin");
+            //string daxilad = Console.ReadLine();
 
-            string[] adlar = { "Sahin", "Farid", "Parviz" };
+            //string[] adlar = { "Sahin", "Farid", "Parviz" };
 
-            bool dogrucavab = false;
-            for (int i = 0; i < adlar.Length; i++)
+            //bool dogrucavab = false;
+            //for (int i = 0; i < adlar.Length; i++)
+            //{
+            //    if (daxilad = adlar[i])
+            //    {
+            //        dogrucavab = true;
+            //        break;
+            //    }
+            //}
+            //if (dogrucavab)
+            //{
+            //    Console.WriteLine("Adiniz tapildi");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("daxxil etdiyiniz ad tapilmadi");
+            //}
+
+
+            string[] name = { "Yetka", "Yeti" };
+            foreach (string addlar in name)
             {
-                if (daxilad = adlar[i])
-                {
-                    dogrucavab = true;
-                    break;
-                }
-            }
-            if (dogrucavab)
-            {
-                Console.WriteLine("Adiniz tapildi");
-            }
-            else
-            {
-                Console.WriteLine("daxxil etdiyiniz ad tapilmadi");
+                Console.WriteLine(addlar);
+
             }
 
 
