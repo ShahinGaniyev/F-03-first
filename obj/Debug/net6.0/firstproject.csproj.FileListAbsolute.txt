@@ -1,0 +1,14 @@
+C:\Users\behru\source\repos\firstproject\firstproject\bin\Debug\net6.0\firstproject.exe
+C:\Users\behru\source\repos\firstproject\firstproject\bin\Debug\net6.0\firstproject.deps.json
+C:\Users\behru\source\repos\firstproject\firstproject\bin\Debug\net6.0\firstproject.runtimeconfig.json
+C:\Users\behru\source\repos\firstproject\firstproject\bin\Debug\net6.0\firstproject.dll
+C:\Users\behru\source\repos\firstproject\firstproject\bin\Debug\net6.0\firstproject.pdb
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.AssemblyInfoInputs.cache
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.AssemblyInfo.cs
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.dll
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\refint\firstproject.dll
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.pdb
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\firstproject.genruntimeconfig.cache
+C:\Users\behru\source\repos\firstproject\firstproject\obj\Debug\net6.0\ref\firstproject.dll
